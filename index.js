@@ -1,0 +1,1 @@
+console.log("My name is Emmanuel, I am 23 and my favorite programming language is JavaScript");
